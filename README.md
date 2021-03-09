@@ -1,4 +1,4 @@
-# deepLearningExercises
+  # Deep Learning Exercises
 
 Lecture "Deep Learning" from the Department of Informatics at University of Zurich
 
